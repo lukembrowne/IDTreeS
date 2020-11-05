@@ -1,0 +1,16 @@
+/venv
+/__pycache__
+/code/__pycache__
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.idea
+/plots/
+/code/evaluation_code/
+/submissions/
+/self-evaluation/
+requirements.txt
+/manuscript/
+/data/
+
